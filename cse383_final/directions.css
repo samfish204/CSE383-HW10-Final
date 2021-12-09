@@ -1,0 +1,54 @@
+/*
+Samuel Fisher
+CSE 383 - Section C
+Dr. Johnson
+December 9, 2021
+Final Project - Directions page CSS
+*/
+body {
+    margin:auto;
+    width: 50%;
+    text-align:center;
+    background-color:Crimson;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#menuBar {
+    margin-top:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+    border-style:dotted;
+    border-color:white;
+}
+
+#dirRow1 {
+    padding-top:20px;
+}
+
+#dirRow2 {
+    padding-top:20px;
+}
+
+#dirResult {
+    padding-top:20px;
+}
+
+#dirContainer {
+    margin-top:25px;
+    border-style:solid;
+    border-width:2px;
+    background-color:Gainsboro;
+}
+
+#mapsImg {
+    margin:auto;
+}
+
+.container {
+    margin:auto;
+}
+
+button {
+    padding:8px;
+    margin:auto;
+}

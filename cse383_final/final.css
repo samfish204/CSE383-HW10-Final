@@ -1,0 +1,42 @@
+/* 
+Samuel Fisher
+CSE383 - Section C
+Dr. Johnson
+December 9, 2021
+Final Project - Landing Page
+*/
+body {
+    margin:auto;
+    width:50%;
+    text-align:center;
+    background-color:Crimson;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+#row1 {
+    margin-top:20px;
+    padding-top:15px;
+    padding-bottom:15px;
+    border-style:dotted;
+    border-color:white;
+}
+
+#div1 {
+    padding-top:12px;
+    border-style:solid;
+    border-width:medium;
+    background-color:Gainsboro;
+}
+
+#dirResultRow2 {
+    text-align:center;
+}
+
+.container {
+    margin:auto;
+}
+
+button {
+    padding:8px;
+    margin:auto;
+}
